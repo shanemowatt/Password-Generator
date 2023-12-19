@@ -1,5 +1,6 @@
 # Password-Generator!
-[Screengrab of generator](05-javascript-challenge-demo.png)
+
+![Alt text](05-javascript-challenge-demo.png)
 
 A cool web-based password generator that allows users to create secure passwords based on their specified criteria.
 
@@ -16,3 +17,5 @@ Get a unique and secure password every time you click the "Generate Password" bu
 - JavaScript
 
 ## Link to project
+https://shanemowatt.github.io/Password-Generator/
+
